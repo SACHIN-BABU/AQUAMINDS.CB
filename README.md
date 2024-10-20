@@ -13,7 +13,8 @@ Our AI model is specifically designed to analyze multi-modal inputs—text, imag
 
 
 
-
+# output
+![Screenshot 2024-10-20 091733](https://github.com/user-attachments/assets/b045f476-c3d6-4be6-9cef-a3cb692b8251)
 
 
 
